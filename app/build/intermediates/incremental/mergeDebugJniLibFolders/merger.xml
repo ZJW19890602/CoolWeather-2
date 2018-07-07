@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\jniLibs"><file name="armeabi/liblocSDK5.so" path="G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\jniLibs\armeabi\liblocSDK5.so"/></source></dataSet><dataSet config="debug"><source path="G:\Android\CoolWeather-2\CoolWeather-2\app\src\debug\jniLibs"/></dataSet></merger>

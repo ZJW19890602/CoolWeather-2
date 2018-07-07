@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:2:1-75:12
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-alpha1.aar\adc47c260428652300126eda05c95346\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-alpha1.aar\1e1d755943eb9adafd94007706dc0067\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\29f55bb0964096ebdcc0a620c1210974\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\bd882ba002e4c54730d963fceec624f8\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\21b1d07e925a04bb969ebed1a02ed2b1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\f22e179a43f3fd72ef825b9d453608ed\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\1a2d4a54c00c2f3c2183765dd5371ace\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\fbfc272cb44f5e9f44a61e6a6b2af384\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\6829ada49fa103a9dde57e8542ca2968\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\ab2358fbc4014c3b5266027f24d8ac20\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\c8e725abdc733f16f154800be97ecc70\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\198fd6f40a80da8f818ba3eec5f5305d\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\1fc2350aee51f910213ac38f2204d459\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\b7fa54fa414b8ad379107d163c54c6ad\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\b129c2a01aff55be4981940d0031ae5c\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\e69102403c7c8cb125b27fe6144d06cb\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\7a083a58b81a41f3eec89ba05eaf3874\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\c539703cf7de7e14a4460a7799cb648b\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\02bb4293453ec90ff1f3da8b884662ad\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8fc1e398838c7872b8b7c83273663bde\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5f9a8a4964081e574111d65200bd6e04\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cab98fe7ee78cb8a0ddad2e17e8cc781\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f1ed173c957b6eb39fe72d1c797db0a0\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:2:1-75:12
+	package
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-alpha1.aar\adc47c260428652300126eda05c95346\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-alpha1.aar\adc47c260428652300126eda05c95346\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-alpha1.aar\1e1d755943eb9adafd94007706dc0067\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-alpha1.aar\1e1d755943eb9adafd94007706dc0067\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\29f55bb0964096ebdcc0a620c1210974\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\29f55bb0964096ebdcc0a620c1210974\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\bd882ba002e4c54730d963fceec624f8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\bd882ba002e4c54730d963fceec624f8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\21b1d07e925a04bb969ebed1a02ed2b1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\21b1d07e925a04bb969ebed1a02ed2b1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\f22e179a43f3fd72ef825b9d453608ed\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\f22e179a43f3fd72ef825b9d453608ed\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\1a2d4a54c00c2f3c2183765dd5371ace\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\1a2d4a54c00c2f3c2183765dd5371ace\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\fbfc272cb44f5e9f44a61e6a6b2af384\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\fbfc272cb44f5e9f44a61e6a6b2af384\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\6829ada49fa103a9dde57e8542ca2968\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\6829ada49fa103a9dde57e8542ca2968\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\ab2358fbc4014c3b5266027f24d8ac20\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\ab2358fbc4014c3b5266027f24d8ac20\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\c8e725abdc733f16f154800be97ecc70\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\c8e725abdc733f16f154800be97ecc70\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\198fd6f40a80da8f818ba3eec5f5305d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\198fd6f40a80da8f818ba3eec5f5305d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\1fc2350aee51f910213ac38f2204d459\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\1fc2350aee51f910213ac38f2204d459\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\b7fa54fa414b8ad379107d163c54c6ad\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\b7fa54fa414b8ad379107d163c54c6ad\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\b129c2a01aff55be4981940d0031ae5c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\b129c2a01aff55be4981940d0031ae5c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\e69102403c7c8cb125b27fe6144d06cb\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\e69102403c7c8cb125b27fe6144d06cb\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\7a083a58b81a41f3eec89ba05eaf3874\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\7a083a58b81a41f3eec89ba05eaf3874\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\c539703cf7de7e14a4460a7799cb648b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\c539703cf7de7e14a4460a7799cb648b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\02bb4293453ec90ff1f3da8b884662ad\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\02bb4293453ec90ff1f3da8b884662ad\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8fc1e398838c7872b8b7c83273663bde\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8fc1e398838c7872b8b7c83273663bde\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5f9a8a4964081e574111d65200bd6e04\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5f9a8a4964081e574111d65200bd6e04\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cab98fe7ee78cb8a0ddad2e17e8cc781\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cab98fe7ee78cb8a0ddad2e17e8cc781\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f1ed173c957b6eb39fe72d1c797db0a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f1ed173c957b6eb39fe72d1c797db0a0\AndroidManifest.xml:20:5-44
+INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:18:5-78
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:22:5-78
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:24:5-74
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:24:22-72
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:26:5-75
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:26:22-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:28:5-83
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:28:22-81
+uses-permission#android.permission.READ_LOGS
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:30:5-67
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:30:22-65
+application
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:32:5-73:19
+	android:label
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:36:9-41
+	android:icon
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:35:9-51
+	android:allowBackup
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:34:9-35
+	android:theme
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:37:9-62
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:33:3-53
+activity#com.htq.coolweather.WelcomeActivity
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:38:9-47:20
+	android:screenOrientation
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:39:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:45:27-74
+activity#com.htq.coolweather.MainActivity
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:49:9-52:20
+	android:screenOrientation
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:51:14-50
+	android:windowSoftInputMode
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:50:13-52
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:49:19-66
+activity#com.htq.coolweather.HomePageFragment
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:53:9-55:20
+	android:screenOrientation
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:54:14-50
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:53:19-70
+activity#com.htq.coolweather.LifeIndexFragment
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:56:9-58:20
+	android:screenOrientation
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:57:14-50
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:56:19-71
+activity#com.htq.coolweather.AddCityActivity
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:61:9-63:20
+	android:screenOrientation
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:62:14-50
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:61:19-69
+service#com.baidu.location.f
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:65:9-68:19
+	android:process
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:67:13-38
+	android:enabled
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:66:13-35
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:65:18-53
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:69:9-72:15
+	android:value
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:70:13-53
+	android:name
+		ADDED from G:\Android\CoolWeather-2\CoolWeather-2\app\src\main\AndroidManifest.xml:69:20-59
